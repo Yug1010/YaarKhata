@@ -1,0 +1,21 @@
+APP NAME (max 30):
+YaarKhata - Money & Debt Tracker
+
+SHORT DESCRIPTION (max 80):
+Track bank & cash balances, expenses and what friends owe you. Fully offline.
+
+FULL DESCRIPTION:
+Keep all your money in one place with YaarKhata.
+
+* Multiple accounts - bank accounts and cash, each with its own balance
+* Expenses, income and adjustments - balances update automatically
+* Reports - see spending by category and month
+* Friend ledger - track who owes you and what you owe, kept separate from your expenses
+* Partial payments and "settle all" for any person
+* Share a debt summary on WhatsApp
+* Backup and restore your data with a JSON file
+* No ads, no sign-up, no internet needed - your data stays on your phone
+
+Category: Finance
+Contact email: yug9408@gmail.com
+Tags: Finance, Expense tracker, Debt tracker

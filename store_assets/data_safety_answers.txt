@@ -1,0 +1,10 @@
+DATA SAFETY FORM (Play Console > App content)
+- Does your app collect or share any required user data types?  NO
+- Is all collected data encrypted in transit?  Not applicable (no data collected / no network)
+- Do you provide a way for users to request data deletion?  Not applicable; data is only on-device and removed by uninstalling
+
+CONTENT RATING: Category "Utility/Productivity/Other"; answer No to violence, sexual content, gambling, user-generated content, location sharing. Expected: Everyone / PEGI 3.
+TARGET AUDIENCE: 18 and over
+ADS: No
+APP ACCESS: All functionality available without login
+FINANCIAL FEATURES: Personal finance management only. No loans, no payments, no banking, no crypto.
