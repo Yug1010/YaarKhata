@@ -62,7 +62,6 @@ All data stays on your device - no cloud sync, no account, no ads.
 
 - No unit tests yet
 - No input validation beyond basic amount/field checks
-- No CSV export or backup - the hidden reset option is permanent and immediate
 - No recurring transactions
 
 These are natural next iterations whenever you want to keep building.
